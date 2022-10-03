@@ -9,7 +9,8 @@ $APPLICATION->SetTitle('Тестовое задание'); ?>
         "OK_TEXT" => "Спасибо, ваше сообщение принято.",
         "REQUIRED_FIELDS" => [
             0 => "applicationTitle",
-            1 => "feedbackSupplySelect"
+            1 => "feedbackCategory",
+            2 => "feedbackView"
         ],
         "MODAL_HEADER" => "Новая заявка",
         'APPLICATION_TITLE' => 'Заголовок заявки',
